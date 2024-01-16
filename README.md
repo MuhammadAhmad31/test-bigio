@@ -59,3 +59,5 @@ Proyek ini saya buat untuk test fullstack BIGIO dalam program MSIB
 - middleware
 
 ## Youtube Link
+
+link : https://youtu.be/1vh7wWbT6p4
