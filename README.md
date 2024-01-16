@@ -1,4 +1,4 @@
-## Introduction
+## <a name="introduction"></a> Introduction :
 
 Proyek fullstack ini adalah aplikasi web sederhana yang memungkinkan pengguna untuk membuat, membaca, memperbarui, dan menghapus cerita (CRUD). Front end dibangun dengan menggunakan framework React, khususnya Next.js, untuk memastikan responsivitas dan efisiensi dalam pengembangan. Backend menggunakan Express.js untuk membangun API, dengan otentikasi token untuk mengamankan akses. Komunikasi antara front end dan backend dilakukan melalui HTTP requests, memungkinkan pertukaran data yang dinamis.
 
@@ -6,12 +6,13 @@ Proyek ini saya buat untuk test fullstack BIGIO dalam program MSIB
 
 ## Table of Contents
 
-- Introduction
-- Features
-- Library
-- Peoject Structure
+- [Introduction](#introduction)
+- [Features](#features)
+- [Libraries](#libraries)
+- [Project Structure](#project-structures)
+- [Youtube Link](#apk-link)
 
-## Features
+## <a name="features"></a> Features :
 
 - Login
 - Dashboard Story
@@ -21,7 +22,7 @@ Proyek ini saya buat untuk test fullstack BIGIO dalam program MSIB
 - Delete Story
 - Detail Story
 
-## Library
+## <a name="libraries"></a> Libraries :
 
 - Express JS
 - Multer (handle Image)
@@ -33,7 +34,7 @@ Proyek ini saya buat untuk test fullstack BIGIO dalam program MSIB
 - Jest Testing API
 - TypeScript
 
-## Project Stucture
+## <a name="project-structures"></a> Project Structure :
 
 ### Back End
 
@@ -58,6 +59,6 @@ Proyek ini saya buat untuk test fullstack BIGIO dalam program MSIB
 - utils
 - middleware
 
-## Youtube Link
+## <a name="apk-link"></a> Youtube URL :
 
 link : https://youtu.be/1vh7wWbT6p4
